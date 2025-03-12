@@ -1,0 +1,46 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "OutputManga&Sequence_57",
+        "OutputAnime&Sequence_4",
+        "NewRow&Sequence_65",
+        "DataNewRow&Sequence_65",
+        "NewDataManga&Sequence_4",
+        "CrtDataManga&Sequence_4",
+        "CrtRowsNumberManga&Sequence_4",
+        "CrtDataAnime&Sequence_4",
+        "NewDataAnime&Sequence_4",
+        "CrtRowsNumberAnime&Sequence_4",
+        "LatestChapter&Sequence_57",
+        "ChosenMangaLink&Sequence_57",
+        "ChosenManga&Sequence_57",
+        "MangaNames&Sequence_57",
+        "MangaList&Sequence_57",
+        "NumberOfMangas&Sequence_4",
+        "outputElement&Sequence_4",
+        "CaseCrt&Sequence_4",
+        "Choice&Sequence_4",
+        "DataNewRow&Sequence_47",
+        "NewRow&Sequence_47",
+        "ExRow&Sequence_4",
+        "CrtRow&Sequence_4",
+        "isUnique&Sequence_4",
+        "ExcelPath&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

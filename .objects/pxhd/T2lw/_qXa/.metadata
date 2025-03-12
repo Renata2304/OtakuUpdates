@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge List All Anime at Gogoanime  Anime List ",
+  "Type": "Screen",
+  "Id": "_qXaN4nklUKz0GA7dnKQMg",
+  "Reference": "b4oxaFtEjkeC2oxBnhYriw/_qXaN4nklUKz0GA7dnKQMg",
+  "ParentRef": "b4oxaFtEjkeC2oxBnhYriw/T2lw_ixAjEu1Qitw_gO3xw",
+  "Created": "2024-08-04T16:08:06.047869Z",
+  "Updated": "2024-08-04T16:08:06.047869Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

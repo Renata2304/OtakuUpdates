@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Anime_and_Manga_Updates.xlsx - Excel",
+  "Type": "Screen",
+  "Id": "K_1ezaBz0EmABkul6Y9Bog",
+  "Reference": "b4oxaFtEjkeC2oxBnhYriw/K_1ezaBz0EmABkul6Y9Bog",
+  "ParentRef": "b4oxaFtEjkeC2oxBnhYriw/3eCBRSwqvUiwZim1OoNSng",
+  "Created": "2024-08-06T13:10:26.8833084Z",
+  "Updated": "2024-08-06T13:10:26.8833084Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
